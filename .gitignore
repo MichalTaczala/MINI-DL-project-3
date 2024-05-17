@@ -1,0 +1,7 @@
+wandb
+venv
+data
+.DS_Store
+src/wandb
+src/artifacts
+*__pycache__*

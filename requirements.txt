@@ -1,0 +1,3 @@
+wandb==0.17.0
+denoising_diffusion_pytorch==2.0.0
+torch==2.3.0
